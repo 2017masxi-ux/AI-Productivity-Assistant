@@ -45,7 +45,7 @@ export function AppSidebar() {
       <SidebarHeader className="border-b border-sidebar-border">
         <div className="flex items-center gap-2.5 px-2 py-1.5">
           <div className="h-9 w-9 rounded-xl bg-gradient-to-br from-primary to-primary-glow grid place-items-center shadow-[var(--shadow-glow)]">
-            <Sparkles className="h-4.5 w-4.5 text-primary-foreground" />
+            <Sparkles className="h-4 w-4 text-primary-foreground" />
           </div>
           <div className="group-data-[collapsible=icon]:hidden">
             <div className="text-sm font-semibold leading-tight">Copilot Pro</div>
